@@ -9,5 +9,10 @@ body{
   background:#edf2f8;
   line-height:1.7;
   font-size:13px;
-  
+}
+
+.testimonials{
+  max-width:1440px;
+  margin:100px auto;
+  padding:20px;
 }
